@@ -2,3 +2,8 @@ p {
     color: red;
     background-color: aqua;
 }
+
+button {
+    color: black;
+    background-color: lightcoral;
+}
