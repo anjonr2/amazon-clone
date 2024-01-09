@@ -14,6 +14,9 @@ body{
 }
 
 div{
-    background-color: #f08804;
-    display: inline;
+   width: 100px;
+   height: 100px;
+   margin: 25px;
+   padding: 25px;
+   display: inline-block;
 }
