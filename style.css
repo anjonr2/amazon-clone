@@ -12,3 +12,8 @@ button {
 body{
     background-color: grey;
 }
+
+div{
+    background-color: #f08804;
+    display: inline;
+}
